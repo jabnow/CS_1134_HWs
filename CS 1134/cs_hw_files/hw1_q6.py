@@ -39,7 +39,7 @@ class Vector:
 
     #part b
     def __sub__(self, other):
-        newV = Vector(self.coords)
+        newV = Vector(len(self.coords))
         #check length
         if len(self.coords) == len(other.coords):
             for i in range(len(newV.coords)):
