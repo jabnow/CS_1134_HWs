@@ -37,3 +37,5 @@ def add_ints():
     b = input('type your second integer \n')
     sum = int(a) + int(b)
     return sum
+
+print(add_ints())
