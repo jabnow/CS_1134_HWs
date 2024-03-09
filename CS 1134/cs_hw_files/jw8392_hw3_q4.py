@@ -14,3 +14,4 @@ def remove_all(lst, value):
         lst.pop()
     return lst
 
+
