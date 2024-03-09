@@ -13,5 +13,3 @@ def remove_all(lst, value):
     for i in range(count_targets):
         lst.pop()
     return lst
-
-
