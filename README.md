@@ -17,6 +17,7 @@ Course Topics
 Data Science Bootcamp (Spring 2024) 
 Group collab: Identification of PCOS high-risk patients
 Kaggle dataset: https://www.kaggle.com/datasets/prasoonkottarathil/polycystic-ovary-syndrome-pcos/data
+(work in progress, will upload when finished)
 
 Week 1 (2/27 & 2/29) - Introduction to Bootcamp and Python Fundamentals
 Week 2 (3/5 & 3/7) -  Numpy and Pandas
