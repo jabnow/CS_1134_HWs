@@ -1,3 +1,6 @@
+This is my first college CS class, and second ever since high school.
+
+
 CS 1134 -- Data Structures & Algorithms
 
 Course Topics
@@ -13,6 +16,10 @@ Course Topics
 • Priority queues (Chapter 9)
 • Sorting and selection (Chapter 12)
 • Graph algorithms (Chapter 14)
+
+
+
+
 
 Data Science Bootcamp (Spring 2024) 
 Group collab: Identification of PCOS high-risk patients
